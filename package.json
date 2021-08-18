@@ -77,10 +77,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kentcdodds/react-hooks.git"
+    "url": "https://github.com/corey-hammond/react-hooks.git"
   },
   "bugs": {
-    "url": "https://github.com/kentcdodds/react-hooks/issues"
+    "url": "https://github.com/corey-hammond/react-hooks/issues"
   },
   "msw": {
     "workerDirectory": "public"
